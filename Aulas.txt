@@ -1,0 +1,9 @@
+AULA 004
+
+window.alert - Notifica
+window.confirm - Pede confirmação
+window.prompt - Abre um espaço de resposta do usuário
+
+AULA 005 Tipo de Dados e Variáveis
+
+Comentários: // ou /* */
