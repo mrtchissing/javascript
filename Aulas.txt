@@ -7,3 +7,33 @@ window.prompt - Abre um espaço de resposta do usuário
 AULA 005 Tipo de Dados e Variáveis
 
 Comentários: // ou /* */
+var nome artigo
+typeof - comando identificador
+
+AULA 006 Manipulação de Dados
+
+window.prompt retorna strings
+
+Sinal de +:
+(number + number) adicção
+(string + string) concatenação
+
+Conversão:
+Number.parseInt(n)
+Number.parseFloat(n)
+Number - converte qualquer string numérica para número
+
+String(var)
+
+Leitura formtada
+`... ${var} ...`
+
+Formatação de String:
+var.length - descreve a quantidade de caracteres da string
+var.toUpperCase() - Tranforma a string em maiúscula
+var.toLowerCase() - Tranforma a string em minúscula
+
+Formatação de Number:
+var.toFixed(casas decimais)
+var.toFixed(casas decimais).replace(".", ",")
+var.toLocaleString("pt-br", (style: "currency", currency: "BRL"))
