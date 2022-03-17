@@ -87,3 +87,18 @@ Formas de Selecção
     querySelector()
 
 *innerText - mostra o texto literal
+
+AULA 10 
+
+Funções
+
+function ação(param){
+    código
+}
+
+Em html
+<tag evento="ação()"></tag>
+<script>
+    function ação() {
+        código
+    }
