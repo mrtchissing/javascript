@@ -37,3 +37,25 @@ Formatação de Number:
 var.toFixed(casas decimais)
 var.toFixed(casas decimais).replace(".", ",")
 var.toLocaleString("pt-br", (style: "currency", currency: "BRL"))
+
+AULA 08 Operadores II
+
+Operadores Relacionais
+=== Testa o tipo de valor antes da igualdade entre os termos
+!== Testa o tipo de valor antes da diferença entre os termos
+
+Operadores Lógicos
+
+Ordem de precedência
+()**/
+<>
+! - Não
+&& - e
+|| - ou
+
+Operadores Ternários
+?
+:
+
+teste ? resultado verdadeiro : resultado falso
+
