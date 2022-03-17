@@ -102,3 +102,14 @@ Em html
     function ação() {
         código
     }
+
+
+AULA 11 Condição
+
+if (condição) {
+    true
+} else {
+    false
+}
+
+console.log - escrever na tela
