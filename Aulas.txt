@@ -59,3 +59,31 @@ Operadores Ternários
 
 teste ? resultado verdadeiro : resultado falso
 
+AULA 009 Introdução ao DOM
+
+DOM - Document Object Model
+
+Árvore DOM
+- window
+    location
+    document
+        html
+            head
+                meta
+                title
+            body
+    history
+
+Formas de Selecção
+- Marca
+    getElementsByTagname()
+- ID
+    getElementsByTagID()
+- Nome
+    getElementsByName()
+- Classe
+    getElementsByTagClassName()
+- Selector
+    querySelector()
+
+*innerText - mostra o texto literal
