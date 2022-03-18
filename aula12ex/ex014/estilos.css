@@ -24,3 +24,17 @@ footer {
     text-align: center;
     font-style: italic;
 }
+section > div {
+    text-align: center;
+    margin: auto;
+    padding: 7px;
+
+}
+#foto {
+    max-width: 210px;
+    max-height: 210px;
+}
+
+#msg {
+    font-weight: bold;
+}
