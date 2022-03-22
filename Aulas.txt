@@ -135,3 +135,18 @@ switch (expressão) {
     default:
         break
 }
+
+AULA 13 - Repetições
+// REPETIR COM TESTE LÓGICO NO INÍCIO
+while (condição) {
+
+}
+// REPETIR COM TESTE LÓGICO NO FIM
+do {
+
+} while (condição)
+
+for (início; teste; incremento) {
+
+}
+

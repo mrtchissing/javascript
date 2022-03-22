@@ -53,4 +53,4 @@ function verificar () {
        res.innerHTML = `Detectamos o cadastro de ${gênero} de ${idade} anos de idade.`
        res.appendChild(img)
     }
-}
+}   
