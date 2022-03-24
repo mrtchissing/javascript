@@ -21,7 +21,7 @@ Sinal de +:
 Conversão:
 Number.parseInt(n)
 Number.parseFloat(n)
-Number - converte qualquer string numérica para número
+Number() - converte qualquer string numérica para número
 
 String(var)
 

@@ -7,15 +7,29 @@
     <title>Exercício Novo</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
-<body onload="carregar()">
+<body>
     <header>
         <h1>Título</h1>
     </header>
     <section>
-        <div id="msg">
-            Aqui aparece uma mensagem...
+        <div>
+            <p>
+                INÍCIO
+                <input type="number" name="nstart" id="nstart">
+            </p>
+            <p>
+                FIM
+                <input type="number" name="nend" id="nend">
+            </p>
+            <p>
+                INTERVALO
+                <input type="number" name="nsteps" id="nsteps">
+            </p>
+            <input type="button" value="Contar" onclick="contar()" id="bt_contar">
         </div>
-        <div >
+        <div>
+            <h2>Resultado</h2>
+            <p id="res"></p>
         </div>
     </section>
     <footer>
