@@ -150,3 +150,19 @@ for (início; teste; incremento) {
 
 }
 
+AULA 15 - Variáveis Compostas
+
+let var = []
+
+Adicionar elementos
+var[index] = value
+var.push(value)
+
+var.lenght - tamanho do vector
+var.sort() - ordem crescente
+var.indesOf(value)
+
+Reptição com v.comp
+for (let pos in vector){
+    consol.log(vector[pos])
+}
