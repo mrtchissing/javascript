@@ -20,6 +20,18 @@ section {
 
 }
 
+#finish {
+    background-color: rgba(155, 223, 54, 0.884);
+    border-radius: 3.5px;
+    color: rgb(32, 32, 37);
+    margin-top: 14px;
+}
+
+#flista {
+    margin-top: 14px;
+    width: 210px;
+}
+
 footer {
     text-align: center;
     font-style: italic;

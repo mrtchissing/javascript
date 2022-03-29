@@ -160,7 +160,7 @@ var.push(value)
 
 var.lenght - tamanho do vector
 var.sort() - ordem crescente
-var.indesOf(value)
+var.indexOf(value)
 
 Reptição com v.comp
 for (let pos in vector){
